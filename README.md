@@ -7,15 +7,15 @@ The first step in our data visualization was to get familiar with the data, a fi
 
 The data come from an astroparticle simulation. The number in the first column represent a specific particle:
 
-1 = fotones
+1 = photon
 
-2 = positrón
+2 = positron
 
-3 = electrón
+3 = electron
 
-5 = muón +
+5 = muon +
 
-6 = muón –
+6 = muon –
 
 The next columns carry the following information:
 
