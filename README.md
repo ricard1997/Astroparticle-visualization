@@ -44,3 +44,9 @@ For the thirhd step, we resize the data to prevent big numbers.
 ## Fourth step
 
 For the fourth step, we delimited the x-axis and y-axis length, because the extension of both axis does not allow to visualize data correctly.The new axis limits involve the 99.38% of all the data.
+
+## Final step
+
+Finally we plotted the data with matplotlib and got the following result:
+
+![alt text](https://github.com/ricard1997/Astroparticle-visualization/blob/main/result.png)
