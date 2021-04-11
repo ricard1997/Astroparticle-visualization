@@ -19,11 +19,11 @@ The data come from an astroparticle simulation. The number in the first column r
 
 The next columns carry the following information:
 
-Column 2: Linear momentum on x en GeV/c
+Column 2: Linear momentum on x in GeV/c
 
-Column 3 : Linear momentum on y en GeV/c
+Column 3 : Linear momentum on y in GeV/c
 
-Column 4 : Linear momentum on en GeV/c
+Column 4 : Linear momentum on in GeV/c
 
 Column 5 : Distance on x axis (Rx)
 
